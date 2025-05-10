@@ -1,7 +1,6 @@
 ### Hi, I'm David Gaba! ![](http://emojis.slackmojis.com/emojis/images/1475772903/1215/boba-fett.png)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/davidgaba/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/davidgaba/)
 
 ```python
 class David:
